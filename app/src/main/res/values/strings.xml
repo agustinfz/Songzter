@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Songzter</string>
+    <string name="listen_next">Listen Next</string>
+    <string name="your_music">Your Music</string>
+    <string name="discover">Discover</string>
+    <string name="search">Search</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="searchResults">Search Results</string>
+</resources>
