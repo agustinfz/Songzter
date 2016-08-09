@@ -41,5 +41,15 @@ public class MainActivity extends AppCompatActivity {
 
         });
 
+        ImageView playlist2 = (ImageView) findViewById(R.id.playList2);
+        playlist1.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view) {
+                Intent listenNextIntent = new Intent(MainActivity.this, NowPlaying.class);
+                startActivity(listenNextIntent);
+            }
+
+        });
+
     }
 }
