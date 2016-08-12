@@ -63,7 +63,8 @@
         style="@style/CategoryTitle"
         android:layout_width="match_parent"
         android:layout_height="@dimen/list_item_height"
-        android:text="@string/search"/>
+        android:text="@string/search"
+        android:inputType="text"/>
     <View style="@style/Divider"/>
 
 
