@@ -53,17 +53,13 @@
     <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="- Use Media Playback APIs to play song"/>
+    android:text="- Use MediaPlayer class and use the AudioManager to play from a local file or a URL"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="- How to bundle sound file into application"/>
+        android:text="- How to bundle sound file into application... probably add a resource file?"/>
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="- OR how to strean a song from some URL or enpoint "/>
 
     <TextView
         android:layout_width="match_parent"
